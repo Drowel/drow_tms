@@ -1,5 +1,6 @@
 package com.drow.hw_3;
 
+// Person, Таск_1 - в котором будет мейн метод
 public class Task_1 {
     /*
     Создайте класс, у которого будут поля имя и возраст (на англ), обязательно сделайте их приватными.
@@ -14,7 +15,8 @@ public class Task_1 {
     private Integer age;
 
     Task_1(){
-        this.name = "Dimon";
+        // this("Dimon", 18)
+        this.name = "Dimon"; // через вызов другого конструктора лучше
         this.age = 18;
     }
 
@@ -31,12 +33,12 @@ public class Task_1 {
         return name;
     }
 
-    public String toString() {
-        Integer age = getAge();
-        String name = getName();
+    public String toString() {     
+        Integer age = getAge(); // это можно убрать
+        String name = getName(); // это можно убрать
         String result = "Name is: " + this.name +" Age is: " + this.age;
         return result;
     }
-
-
+// лишняя пустая строка
+// лишняя пустая строка
 }
