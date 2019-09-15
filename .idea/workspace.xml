@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3e14a0ff-fa55-44fe-b71e-2f05fa7e2458" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1QNri79TyroJdIe7tXI0TI0muRz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\JAVA_SB\src\com\drow" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.hw_task_1">
+    <configuration name="Task_1_main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.drow.hw_3.Task_1_main" />
+      <module name="JAVA_SB" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.drow.hw_3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task_7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.drow.hw_2.task_7.Task_7" />
+      <module name="JAVA_SB" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.drow.hw_2.task_7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task_8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.drow.hw_2.task_8.Task_8" />
+      <module name="JAVA_SB" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.drow.hw_2.task_8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task_9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.drow.hw_2.task_9.Task_9" />
+      <module name="JAVA_SB" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.drow.hw_2.task_9.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="hw_task_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.drow.hw_1.task_1.hw_task_1" />
+      <module name="JAVA_SB" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.drow.hw_1.task_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.hw_task_1" />
+        <item itemvalue="Application.Task_1_main" />
+        <item itemvalue="Application.Task_9" />
+        <item itemvalue="Application.Task_8" />
+        <item itemvalue="Application.Task_7" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3e14a0ff-fa55-44fe-b71e-2f05fa7e2458" name="Default Changelist" comment="" />
+      <created>1567622019552</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1567622019552</updated>
+    </task>
+    <task id="LOCAL-00001" summary="reinit">
+      <created>1568054094837</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1568054094838</updated>
+    </task>
+    <task id="LOCAL-00002" summary="reinit">
+      <created>1568054137879</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1568054137879</updated>
+    </task>
+    <task id="LOCAL-00003" summary="reinit">
+      <created>1568054193783</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1568054193783</updated>
+    </task>
+    <task id="LOCAL-00004" summary="reinit">
+      <created>1568055982325</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1568055982325</updated>
+    </task>
+    <task id="LOCAL-00005" summary="hw_2 in room">
+      <created>1568056113261</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1568056113261</updated>
+    </task>
+    <task id="LOCAL-00006" summary="hw_2 at home">
+      <created>1568178302104</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1568178302104</updated>
+    </task>
+    <task id="LOCAL-00007" summary="hw_2 at work">
+      <created>1568184636748</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1568184636748</updated>
+    </task>
+    <task id="LOCAL-00008" summary="hw_2 at work">
+      <created>1568184946900</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1568184946900</updated>
+    </task>
+    <task id="LOCAL-00009" summary="hw_2 at work2">
+      <created>1568185038652</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1568185038652</updated>
+    </task>
+    <task id="LOCAL-00010" summary="hw_3 at class">
+      <created>1568228314438</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1568228314439</updated>
+    </task>
+    <task id="LOCAL-00011" summary="hw_3 at class2">
+      <created>1568228435141</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1568228435141</updated>
+    </task>
+    <task id="LOCAL-00012" summary="hw_3 at class2">
+      <created>1568228475753</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1568228475753</updated>
+    </task>
+    <task id="LOCAL-00013" summary="hw_3 at class2">
+      <created>1568228695604</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1568228695604</updated>
+    </task>
+    <task id="LOCAL-00014" summary="hw_3 at class2">
+      <created>1568229124141</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1568229124141</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/src" />
+      <path value="$PROJECT_DIR$/src/com" />
+    </ignored-roots>
+    <MESSAGE value="reinit" />
+    <MESSAGE value="hw_2 in room" />
+    <MESSAGE value="hw_2 at home" />
+    <MESSAGE value="hw_2 at work" />
+    <MESSAGE value="hw_2 at work2" />
+    <MESSAGE value="hw_3 at class" />
+    <MESSAGE value="hw_3 at class2" />
+    <option name="LAST_COMMIT_MESSAGE" value="hw_3 at class2" />
+  </component>
+</project>
