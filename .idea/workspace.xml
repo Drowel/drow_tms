@@ -40,7 +40,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.hw_task_1">
+  <component name="RunManager" selected="Application.Task_2">
     <configuration name="Task_1_main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.drow.hw_3.Task_1_main" />
       <module name="JAVA_SB" />
@@ -54,12 +54,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task_7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.drow.hw_2.task_7.Task_7" />
+    <configuration name="Task_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.drow.hw_3.Task_2" />
       <module name="JAVA_SB" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.drow.hw_2.task_7.*" />
+          <option name="PATTERN" value="com.drow.hw_3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,11 +108,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.hw_task_1" />
+        <item itemvalue="Application.Task_2" />
         <item itemvalue="Application.Task_1_main" />
+        <item itemvalue="Application.hw_task_1" />
         <item itemvalue="Application.Task_9" />
         <item itemvalue="Application.Task_8" />
-        <item itemvalue="Application.Task_7" />
       </list>
     </recent_temporary>
   </component>
