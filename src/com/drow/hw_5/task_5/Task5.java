@@ -4,6 +4,7 @@ package com.drow.hw_5.task_5;
 
 import java.util.Scanner;
 
+// форматируй код
 public class Task5 {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
