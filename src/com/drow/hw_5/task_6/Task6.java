@@ -4,6 +4,7 @@ package com.drow.hw_5.task_6;
 
 import java.util.Scanner;
 
+// форматируй код
 public class Task6 {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
@@ -15,7 +16,7 @@ public class Task6 {
         }
         int res = 5;
         for (int i=6; i<=n; i++ ){
-
+// пустая строка не нужна
             res = res*i;
         }
         System.out.println(res);
