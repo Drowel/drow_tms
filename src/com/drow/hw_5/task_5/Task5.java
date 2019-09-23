@@ -12,7 +12,7 @@ public class Task5 {
         int n = in.nextInt();
         int res = 0;
         for (int i=0; i<=n; i++ ){
-
+//пустая строка не нужна
             res = res + i;
         }
         System.out.println(res);
