@@ -1,7 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3e14a0ff-fa55-44fe-b71e-2f05fa7e2458" name="Default Changelist" comment="" />
+    <list default="true" id="3e14a0ff-fa55-44fe-b71e-2f05fa7e2458" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/drow/hw_4/task_1/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/drow/hw_4/task_2/Task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/drow/hw_4/task_3/Task3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/drow/hw_4/task_4/Task4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/drow/hw_4/task_4/Task4Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/drow/hw_4/task_5/Building.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/drow/hw_4/task_5/Khrushevka.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/drow/hw_4/task_5/Monolit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/drow/hw_4/task_5/Panel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/drow/hw_4/task_5/Stalinka.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/drow/hw_4/task_5/Task5Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/drow/hw_4/task_7/Task7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/drow/hw_4/task_7/Task7Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/drow/hw_5/task_1/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/drow/hw_5/task_2/Task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/drow/hw_5/task_3/Task3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/drow/hw_5/task_4/Task4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/drow/hw_5/task_5/Task5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SB/com/drow/hw_3/Task_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JAVA_SB/com/drow/hw_3/Task_1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SB/com/drow/hw_3/Task_1_main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JAVA_SB/com/drow/hw_3/Task_1_main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SB/com/drow/hw_3/Task_2" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JAVA_SB/com/drow/hw_3/Task_2" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,9 +40,12 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="ProjectId" id="1QNri79TyroJdIe7tXI0TI0muRz" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
@@ -40,13 +66,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Task_2">
-    <configuration name="Task_1_main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.drow.hw_3.Task_1_main" />
+  <component name="RunManager" selected="Application.Task5">
+    <configuration name="Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.drow.hw_5.task_1.Task1" />
       <module name="JAVA_SB" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.drow.hw_3.*" />
+          <option name="PATTERN" value="com.drow.hw_5.task_1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -54,12 +80,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.drow.hw_3.Task_2" />
+    <configuration name="Task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.drow.hw_5.task_2.Task2" />
       <module name="JAVA_SB" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.drow.hw_3.*" />
+          <option name="PATTERN" value="com.drow.hw_5.task_2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -67,12 +93,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task_8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.drow.hw_2.task_8.Task_8" />
+    <configuration name="Task3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.drow.hw_5.task_3.Task3" />
       <module name="JAVA_SB" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.drow.hw_2.task_8.*" />
+          <option name="PATTERN" value="com.drow.hw_5.task_3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -80,12 +106,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task_9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.drow.hw_2.task_9.Task_9" />
+    <configuration name="Task4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.drow.hw_5.task_4.Task4" />
       <module name="JAVA_SB" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.drow.hw_2.task_9.*" />
+          <option name="PATTERN" value="com.drow.hw_5.task_4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,12 +119,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="hw_task_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.drow.hw_1.task_1.hw_task_1" />
+    <configuration name="Task5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.drow.hw_5.task_5.Task5" />
       <module name="JAVA_SB" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.drow.hw_1.task_1.*" />
+          <option name="PATTERN" value="com.drow.hw_5.task_5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,11 +134,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Task_2" />
-        <item itemvalue="Application.Task_1_main" />
-        <item itemvalue="Application.hw_task_1" />
-        <item itemvalue="Application.Task_9" />
-        <item itemvalue="Application.Task_8" />
+        <item itemvalue="Application.Task5" />
+        <item itemvalue="Application.Task4" />
+        <item itemvalue="Application.Task3" />
+        <item itemvalue="Application.Task2" />
+        <item itemvalue="Application.Task1" />
       </list>
     </recent_temporary>
   </component>
