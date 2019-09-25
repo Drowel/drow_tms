@@ -2,20 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3e14a0ff-fa55-44fe-b71e-2f05fa7e2458" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/drow/hw_6/task_1/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/drow/hw_6/task_1/ZeroDividerException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/drow/hw_6/task_2/Task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/drow/hw_6/task_2/WrongStringParsingException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/drow/hw_6/task_3/Task3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/drow/hw_6/task_3/WrongSizeException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/drow/hw_6/task_4/Machina.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/drow/hw_6/task_4/Task4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SB/com/drow/hw_5/task_1/Task1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JAVA_SB/com/drow/hw_5/task_1/Task1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SB/com/drow/hw_5/task_2/Task2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JAVA_SB/com/drow/hw_5/task_2/Task2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SB/com/drow/hw_5/task_4/Task4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JAVA_SB/com/drow/hw_5/task_4/Task4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SB/com/drow/hw_5/task_5/Task5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JAVA_SB/com/drow/hw_5/task_5/Task5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SB/com/drow/hw_5/task_6/Task6.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JAVA_SB/com/drow/hw_5/task_6/Task6.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SB/com/drow/hw_5/task_7/Task7.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JAVA_SB/com/drow/hw_5/task_7/Task7.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/drow/hw_5/task_7/Task7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/drow/hw_5/task_7/Task7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SB/com/drow/hw_6/task_3/Task3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JAVA_SB/com/drow/hw_6/task_3/Task3.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -58,7 +48,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Task3">
+  <component name="RunManager" selected="Application.Task4">
     <configuration name="Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.drow.hw_6.task_1.Task1" />
       <module name="JAVA_SB" />
@@ -98,12 +88,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.drow.hw_5.task_6.Task6" />
+    <configuration name="Task4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.drow.hw_6.task_4.Task4" />
       <module name="JAVA_SB" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.drow.hw_5.task_6.*" />
+          <option name="PATTERN" value="com.drow.hw_6.task_4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,11 +116,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Task4" />
         <item itemvalue="Application.Task3" />
         <item itemvalue="Application.Task2" />
         <item itemvalue="Application.Task1" />
         <item itemvalue="Application.Task7" />
-        <item itemvalue="Application.Task6" />
       </list>
     </recent_temporary>
   </component>
