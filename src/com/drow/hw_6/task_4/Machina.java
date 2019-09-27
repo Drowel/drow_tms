@@ -7,7 +7,9 @@ public class Machina {
     boolean isOn = false;
     boolean water = false;
 
-    private static void washing(boolean on, boolean power, boolean water){
+    // думаю не стоит этот метод делать статичным, он относится к конкретному экземпляру стиральной машины
+    private static void washing(boolean on /* isOn */, boolean power /* isPowerOn */, boolean water /* hasWater */){
+        // if(on && water) {}
         if(on==true && water == true){
             System.out.println("Washing, washing, tr tr tr...");
         } else
@@ -31,6 +33,7 @@ public class Machina {
         System.out.println("Emergency water draining");
     }
 
+    // это все должно быть в конструкторе, а данные получи в методе main
     public void initilizing(){
         Scanner in = new Scanner(System.in);
         System.out.println("Set water");
