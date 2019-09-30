@@ -14,14 +14,14 @@ public class Task4 {
     }
 
     public static void main(String[] args) throws IOException {
-       /* try (ObjectOutputStream oop = new ObjectOutputStream(new FileOutputStream(PATH));){      // здесь запись, она работет
+        try (ObjectOutputStream oop = new ObjectOutputStream(new FileOutputStream(PATH));){
             Employee employee = new Employee();
             oop.writeObject(employee);
-        }
+        } catch (Exception e){
 
-    }*/
+    }
 
-        try (ObjectInputStream ois = new ObjectInputStream(new FileInputStream(PATH))) {        // а чтение почему то нет ((
+        try (ObjectInputStream ois = new ObjectInputStream(new FileInputStream(PATH))) {
             try {
                 Employee employee = (Employee) ois.readObject();
                 System.out.println("Employee " + employee.getName() + " " + employee.getAge());

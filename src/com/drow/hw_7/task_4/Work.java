@@ -1,6 +1,8 @@
 package com.drow.hw_7.task_4;
 
-public class Work {
+import java.io.Serializable;
+
+public class Work implements Serializable {
     public String companyName;
     public int stage;
 
