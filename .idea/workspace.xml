@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3e14a0ff-fa55-44fe-b71e-2f05fa7e2458" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/drow/hw_7/task_1/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/drow/hw_7/task_2/Task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/drow/hw_7/task_3/Task3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/drow/hw_7/task_4/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/drow/hw_7/task_4/Task4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/drow/hw_7/task_4/Work.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="3e14a0ff-fa55-44fe-b71e-2f05fa7e2458" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
