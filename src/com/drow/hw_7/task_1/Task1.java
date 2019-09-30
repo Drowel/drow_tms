@@ -7,9 +7,11 @@ import java.io.FileWriter;
 import java.io.IOException;
 
 
+// форматируй код
 public class Task1 {
     public static final String PATH = "src/com/drow/hw_7/task_1/myFile.txt";
     public static void main(String[] args) {
+        // myArray -> numbers
         int[] myArray = new int[10];
         for (int i=0; i<9; i++){
             myArray[i] = i;
