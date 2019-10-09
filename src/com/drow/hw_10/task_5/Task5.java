@@ -10,6 +10,7 @@ import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.LinkedList;
 
+// форматируй код
 public class Task5 {
     public static void main(String[] args) {
         ArrayList<Integer> arrayList = new ArrayList<>(100000);
@@ -25,7 +26,7 @@ public class Task5 {
         long start = System.currentTimeMillis();
         Iterator<Integer> integerIterator = arrayList.listIterator();
         while (integerIterator.hasNext()){
-            int center = (int)arrayList.size()/2;
+            int center = (int)arrayList.size()/2; // <- это целочисленное деление, результат итак будет целым
             arrayList.remove(center);
         }
         long end = System.currentTimeMillis();
@@ -34,7 +35,7 @@ public class Task5 {
         start = System.currentTimeMillis();
         Iterator<Integer> listIterator = linkedList.listIterator();
         while (listIterator.hasNext()){
-            int center = (int)arrayList.size()/2;
+            int center = (int)arrayList.size()/2; // <- это целочисленное деление, результат итак будет целым
             linkedList.remove(center);
         }
         end = System.currentTimeMillis();
