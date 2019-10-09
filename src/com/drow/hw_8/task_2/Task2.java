@@ -8,8 +8,8 @@ package com.drow.hw_8.task_2;
 
 public class Task2 {
     public static void main(String[] args) {
-        Tree bananaTree = new Tree("banana", 3, 4, 2);
-        bananaTree.spawnBranches(2);
+      //  Tree bananaTree = new Tree("banana", 3, 4, 2);
+       // bananaTree.spawnBranches(2);
 
 
     }

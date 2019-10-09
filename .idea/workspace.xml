@@ -2,16 +2,38 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3e14a0ff-fa55-44fe-b71e-2f05fa7e2458" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/drow/hw_8/task_1/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/drow/hw_8/task_2/BananaTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/drow/hw_8/task_2/Branch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/drow/hw_8/task_2/CoconutTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/drow/hw_8/task_2/Monkey.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/drow/hw_8/task_2/MonkeyManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/drow/hw_8/task_2/Task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/drow/hw_8/task_2/Tree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/drow/hw_10/task_1/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/drow/hw_10/task_1/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/drow/hw_10/task_2/Task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/drow/hw_10/task_3/Task3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/drow/hw_10/task_4/Task4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/drow/hw_10/task_5/Task5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/drow/hw_10/task_6/Task6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/drow/hw_10/task_7/IntrgerSetComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/drow/hw_10/task_7/Task7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/drow/hw_8/task_3/Task3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/drow/hw_8/task_3/Warehouse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/drow/hw_9/task_1/CommonClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/drow/hw_9/task_1/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/drow/hw_9/task_2/ComClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/drow/hw_9/task_2/ComInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/drow/hw_9/task_2/Task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/drow/hw_9/task_3/BMW.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/drow/hw_9/task_3/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/drow/hw_9/task_3/Garage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/drow/hw_9/task_3/Lada.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/drow/hw_9/task_3/Task3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SB/com/drow/hw_7/task_4/Employee.dat" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JAVA_SB/com/drow/hw_7/task_4/Employee.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SB/com/drow/hw_7/task_1/Task1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JAVA_SB/com/drow/hw_7/task_1/Task1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SB/com/drow/hw_7/task_2/Task2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JAVA_SB/com/drow/hw_7/task_2/Task2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SB/com/drow/hw_7/task_3/Task3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JAVA_SB/com/drow/hw_7/task_3/Task3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SB/com/drow/hw_7/task_4/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JAVA_SB/com/drow/hw_7/task_4/Employee.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SB/com/drow/hw_7/task_4/Task4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JAVA_SB/com/drow/hw_7/task_4/Task4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SB/com/drow/hw_7/task_4/Work.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JAVA_SB/com/drow/hw_7/task_4/Work.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/drow/hw_8/task_2/BananaTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/drow/hw_8/task_2/BananaTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/drow/hw_8/task_2/CoconutTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/drow/hw_8/task_2/CoconutTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/drow/hw_8/task_2/Task2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/drow/hw_8/task_2/Task2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/drow/hw_8/task_2/Tree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/drow/hw_8/task_2/Tree.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,6 +44,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -54,13 +77,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Task1">
-    <configuration name="Task1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.drow.hw_7.task_1.Task1" />
+  <component name="RunManager" selected="Application.Task7">
+    <configuration name="Task3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.drow.hw_10.task_3.Task3" />
       <module name="JAVA_SB" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.drow.hw_7.task_1.*" />
+          <option name="PATTERN" value="com.drow.hw_10.task_3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -68,12 +91,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.drow.hw_8.task_1.Task1" />
+    <configuration name="Task4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.drow.hw_10.task_4.Task4" />
       <module name="JAVA_SB" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.drow.hw_8.task_1.*" />
+          <option name="PATTERN" value="com.drow.hw_10.task_4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,12 +104,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task2 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.drow.hw_7.task_2.Task2" />
+    <configuration name="Task5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.drow.hw_10.task_5.Task5" />
       <module name="JAVA_SB" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.drow.hw_7.task_2.*" />
+          <option name="PATTERN" value="com.drow.hw_10.task_5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,12 +117,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task3 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.drow.hw_7.task_3.Task3" />
+    <configuration name="Task6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.drow.hw_10.task_6.Task6" />
       <module name="JAVA_SB" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.drow.hw_7.task_3.*" />
+          <option name="PATTERN" value="com.drow.hw_10.task_6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,12 +130,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task4 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.drow.hw_7.task_4.Task4" />
+    <configuration name="Task7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.drow.hw_10.task_7.Task7" />
       <module name="JAVA_SB" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.drow.hw_7.task_4.*" />
+          <option name="PATTERN" value="com.drow.hw_10.task_7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,11 +145,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Task1" />
-        <item itemvalue="Application.Task4 (1)" />
-        <item itemvalue="Application.Task3 (1)" />
-        <item itemvalue="Application.Task2 (1)" />
-        <item itemvalue="Application.Task1 (1)" />
+        <item itemvalue="Application.Task7" />
+        <item itemvalue="Application.Task6" />
+        <item itemvalue="Application.Task5" />
+        <item itemvalue="Application.Task4" />
+        <item itemvalue="Application.Task3" />
       </list>
     </recent_temporary>
   </component>
@@ -253,7 +276,14 @@
       <option name="project" value="LOCAL" />
       <updated>1569857587206</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="hw_3 at class2">
+      <created>1570031591447</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1570031591447</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

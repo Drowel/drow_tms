@@ -4,6 +4,10 @@ public class Tree extends Branch{
 
     public String type = "type";
 
+    Tree(int branchLvl) {
+        super(branchLvl);
+    }
+
     public int spawnFruit(){
         return (int)Math.random()*10;
     }
