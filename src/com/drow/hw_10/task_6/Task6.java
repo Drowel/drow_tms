@@ -8,6 +8,7 @@ import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.LinkedList;
 
+// форматируй код
 public class Task6 {
     public static void main(String[] args) {
         ArrayList<Integer> arrayList = new ArrayList<>(100000);
