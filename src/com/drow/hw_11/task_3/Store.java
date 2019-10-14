@@ -1,10 +1,11 @@
 package com.drow.hw_11.task_3;
 
+// можно было через List или просто увеличивать счетчик, но главное чтобы был синхронизированным
 public class Store {
     private int toys;
 
     Store(){
-        toys=0;
+        toys=0; // через конструктор
     }
 
     public int getToys() {
